@@ -106,9 +106,9 @@ DELETE
 }
 
 **Exemplo corpo de resposta**
-```JSON
+
 **Status 200 ok**
-```
+
 
 **HTTP responses para POST**
 | Código | Descrição |
@@ -208,9 +208,9 @@ Retorna um arquivo JSON vazio.
     }
 ```
 **Exemplo do Corpo do Response**
-```JSON
+
  **Status 200 ok**
-```
+
 **Respostas que podem aparecer no POST :**
 | Código | Descrição |
 |---|---|
@@ -303,10 +303,9 @@ Retorna um arquivo JSON vazio.
     }
 ```
 **Exemplo do Corpo do Response**
-```JSON
+
 **Status 200 ok**
-,
-```
+
 **Respostas que podem aparecer no POST :**
 | Código | Descrição |
 |---|---|
