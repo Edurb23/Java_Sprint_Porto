@@ -106,9 +106,9 @@ DELETE
 }
 
 **Exemplo corpo de resposta**
-```JSON
-Status 200 ok
-```
+
+**Status 200 ok**
+
 
 **HTTP responses para POST**
 | Código | Descrição |
@@ -208,9 +208,9 @@ Retorna um arquivo JSON vazio.
     }
 ```
 **Exemplo do Corpo do Response**
-```JSON
-  Status 200 ok
-```
+
+ **Status 200 ok**
+
 **Respostas que podem aparecer no POST :**
 | Código | Descrição |
 |---|---|
@@ -302,11 +302,10 @@ Retorna um arquivo JSON vazio.
         "nr_telefone": 81998887777
     }
 ```
-**Exemplo do Corpo do Response**(-------------EDUUUUUUUU_____________)
-```JSON
-Status 200 ok
-,
-```
+**Exemplo do Corpo do Response**
+
+**Status 200 ok**
+
 **Respostas que podem aparecer no POST :**
 | Código | Descrição |
 |---|---|
@@ -327,7 +326,7 @@ Status 200 ok
 | ddi              | String |     Sim     | Contém o codigo de discagem direta internacional
 | nome da operadora| String |     Sim     | Contém o nome da operadora de telefonia
 
-**Exemplo do Corpo do Request** (-------------EDUUUUUUUU_____________)
+**Exemplo do Corpo do Request** 
 ```JSON
  {
         "id_cliente": 21,
